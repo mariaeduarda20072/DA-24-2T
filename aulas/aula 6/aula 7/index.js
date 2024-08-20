@@ -8,7 +8,7 @@ console.log(resultado)*/
 
 //exercicio 
 
-//teste
+//teste2
 /*const a = true 
 const b = false 
 const c = true 
